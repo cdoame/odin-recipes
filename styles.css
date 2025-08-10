@@ -1,7 +1,7 @@
 body {
-    font-family: "Georgia";
+    font-family: "Georgia", "STIX Two Math";
 }
 
 .title {
-    font-family: "Snell Roundhand";
+    font-family: "Snell Roundhand", "STIX Two Text";
 }
