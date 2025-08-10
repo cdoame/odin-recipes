@@ -18,6 +18,10 @@ a:visited {
     text-align: center;
 }
 
+.container {
+    text-align: center;
+}
+
 .recipe {
     display: inline-block;
     list-style: none;
