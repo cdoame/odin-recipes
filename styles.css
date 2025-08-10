@@ -3,6 +3,14 @@ body {
     font-size: 20px;
 }
 
+a:link {
+    color: rgb(92, 92, 92);
+}
+
+a:visited {
+    color: black;
+}
+
 .title {
     font-family: "Snell Roundhand", "STIX Two Text";
     font-weight: normal;
@@ -16,4 +24,5 @@ body {
     margin: 20px;
     padding: 10px;
     border: 2px black solid;
+    background-color: rgb(240, 240, 240);
 }
