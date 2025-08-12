@@ -33,4 +33,11 @@ a:visited {
 
 .body-container {
     background-color: rgb(233, 233, 233);
+    text-align: center;
+    padding: 20px;
+    margin: 15px 650px;
+}
+
+ul {
+    list-style: none;
 }
